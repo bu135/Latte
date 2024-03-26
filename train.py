@@ -7,6 +7,7 @@
 A minimal training script for Latte using PyTorch DDP.
 """
 
+import os
 
 import torch
 # Maybe use fp16 percision training need to set to False
